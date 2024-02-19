@@ -1,0 +1,21 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
+%TF.CreationDate,2024-02-15T14:19:22+01:00*%
+%TF.ProjectId,stm32f405-sensorleap-v1,73746d33-3266-4343-9035-2d73656e736f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2024-02-15 14:19:22*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.500000X4.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X107600000Y-102117529D03*
+X113200000Y-102117529D03*
+%TD*%
+M02*
